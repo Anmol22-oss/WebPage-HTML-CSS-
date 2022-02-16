@@ -1,2 +1,3 @@
-# WebPage-HTML-CSS-
-Basic Web Page for Gym
+# WebPage-HTML-CSS
+Gym Website
+Absolute Begginer's WebPage Using HTML and CSS only.
